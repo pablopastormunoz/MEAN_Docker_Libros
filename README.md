@@ -12,4 +12,4 @@ Servidor Express en http://localhost:3000/
 
 MongoDB en puerto 27017
 
-Incluye node_modules por seguridad
+Incluye node_modules por seguridad (el proyecto completo pesa 60 megas)
