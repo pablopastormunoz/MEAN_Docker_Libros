@@ -19,3 +19,6 @@ Proyecto para IISS realizado por Santiago Godoy Poce, Jose María Correro Barqu�
 - El proyecto completo pesa 60 megas
 
 - Sobre el proyecto: Consiste en una lista de lectura de libros. Se pueden añadir, eliminar, consultar y editar libros de la lista. Podemos poner un libro en estado "Completado" con el botón verde. Para editar un libro, primero habrá que pulsar el botón azul, modificar los campos (nombre, descripción, y estado en el que se encuentra) y de nuevo pinchar sobre el botón azul para guardar los cambios en la base de datos (de lo contrario, nada es modificado).
+
+
+
