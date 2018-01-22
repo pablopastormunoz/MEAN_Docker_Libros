@@ -1,15 +1,20 @@
 # MEAN_Docker_Libros
-Proyecto para IISS
 
+Proyecto para IISS realizado por Santiago Godoy Poce, Jose María Correro Barquín, y Pablo Pastor Muñoz.
 
-Ejecutar dentro del directorio la orden
+- Los contenedores se generan con la herramienta Docker Compose.
 
-docker-compose up --build
+- Para construir y arrancar el proyecto, hay que ejecutar en el directorio del mismo la orden en una terminal:
 
-Acceder a la app con http://localhost:4200/
+    docker-compose up --build
+  
+- Para acceder a la app usar en el navegador la siguiente URL: http://localhost:4200/
 
-Servidor Express en http://localhost:3000/
+- El servidor Express se encuentra en http://localhost:3000/
 
-MongoDB en puerto 27017
+- La base de datos de MongoDB se encuentra en el puerto 27017
 
-Incluye node_modules por seguridad (el proyecto completo pesa 60 megas)
+- El repositorio incluye la carpeta node_modules por seguridad 
+
+- El proyecto completo pesa 60 megas
+
