@@ -2,7 +2,7 @@
 
 Proyecto para IISS realizado por Santiago Godoy Poce, Jose María Correro Barquín, y Pablo Pastor Muñoz.
 
-- Los contenedores se generan con la herramienta Docker Compose, que habrá que instalar aparte ( ver el siguiente enlace para instalar la última versión: https://docs.docker.com/compose/install/ )
+- Los contenedores se generan automáticamente con la herramienta Docker Compose, que habrá que instalar aparte ( ver el siguiente enlace para instalar la última versión: https://docs.docker.com/compose/install/ )
 
 - Para construir y arrancar el proyecto en sus respectivos contenedores, hay que ejecutar en el directorio del mismo la siguiente orden en una terminal:
 
